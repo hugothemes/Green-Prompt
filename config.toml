@@ -1,0 +1,31 @@
+baseurl = "http://example.org/"
+title = "Green Prompt"
+theme = "nix"
+languageCode = "en-us"
+disqusShortname = ""
+
+[menu]
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "/post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+[params]
+  GithubID = "your_github"
+  TwitterID = "your_twitter"
+  LinkedInID = "your_linkedin"
+  GoogleplusID = "your_googleplus"
+  FacebookID = "your_facebook"
+  TelegramID = "your_telegram"
+  Name = "Green Prompt"
+  HeaderUsername = "hugo"
+  HeaderHostname = "hugo"
+  Email = "your_email"
+  About = "Hi I'm Dari. This is my first site so I hope you will enjoy it. We are a new small business and we are going to do an internet shop so you can buy things from us.Welcome you and hoping you will be satisfied buying with us. Thank you and Enjoy!"
+  ProfilePicture = "/profile.jpg"
+  SlackURL = "your_slack_invite_url"
+
