@@ -1,5 +1,6 @@
 baseurl = "http://example.org/"
 title = "Green Prompt"
+publishDir = "docs"
 theme = "nix"
 languageCode = "en-us"
 disqusShortname = ""
