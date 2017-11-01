@@ -1,4 +1,4 @@
-baseurl = "http://hugothemes.github.io/hugo-new-site/"
+baseurl = "https://hugothemes.github.io/hugo-new-site/"
 title = "Green Prompt"
 publishDir = "docs"
 theme = "nix"
