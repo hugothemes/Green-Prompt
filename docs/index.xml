@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Green Prompt</title>
-    <link>http://hugothemes.github.io/hugo-new-site/</link>
+    <link>https://hugothemes.github.io/hugo-new-site/</link>
     <description>Recent content on Green Prompt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://hugothemes.github.io/hugo-new-site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hugothemes.github.io/hugo-new-site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Hugo</title>
-      <link>http://hugothemes.github.io/hugo-new-site/about/</link>
+      <link>https://hugothemes.github.io/hugo-new-site/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://hugothemes.github.io/hugo-new-site/about/</guid>
+      <guid>https://hugothemes.github.io/hugo-new-site/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
