@@ -1,4 +1,4 @@
-baseurl = "https://hugothemes.github.io/Green-Prompt/"
+baseurl = "https://hugothemes.github.io/green-prompt/"
 title = "Green Prompt"
 themesDir= "themes"
 publishDir = "docs"
@@ -8,21 +8,33 @@ disqusShortname = ""
 
 [menu]
   [[menu.header]]
-    name = "post"
+    name = "blog"
     weight = 0
-    url = "/post"
+    url = "/blog"
   [[menu.header]]
     name = "about"
     weight = 1
     url = "/about"
-
+  [[menu.header]]
+    name = "contact"
+    weight = 2
+    url = "/contact"
+  [[menu.header]]
+    name = "offer"
+    weight = 3
+    url = "/offer"
+  [[menu.header]]
+    name = "privacy policy"
+    weight = 4
+    url = "/privacy policy"
+ 
 [params]
   GithubID = "hugothemes"
   TwitterID = "your_twitter"
-  LinkedInID = "your_linkedin"
+  LinkedInID = ""
   GoogleplusID = "your_googleplus"
   FacebookID = "your_facebook"
-  TelegramID = "your_telegram"
+  TelegramID = ""
   Name = "Green Prompt"
   HeaderUsername = "g9"
   HeaderHostname = "github"
