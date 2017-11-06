@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hugothemes.github.io/Green-Prompt/post/first-post/</loc>
+    <loc>https://hugothemes.github.io/green-prompt/post/first-post/</loc>
     <lastmod>2017-11-01T12:31:07+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugothemes.github.io/Green-Prompt/about/</loc>
+    <loc>https://hugothemes.github.io/green-prompt/about/</loc>
   </url>
   
   <url>
-    <loc>https://hugothemes.github.io/Green-Prompt/post/second-post/</loc>
+    <loc>https://hugothemes.github.io/green-prompt/post/second-post/</loc>
   </url>
   
   <url>
-    <loc>https://hugothemes.github.io/Green-Prompt/categories/</loc>
+    <loc>https://hugothemes.github.io/green-prompt/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hugothemes.github.io/Green-Prompt/</loc>
-    <lastmod>2017-11-01T12:31:07+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hugothemes.github.io/Green-Prompt/post/</loc>
+    <loc>https://hugothemes.github.io/green-prompt/</loc>
     <lastmod>2017-11-01T12:31:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hugothemes.github.io/Green-Prompt/tags/</loc>
+    <loc>https://hugothemes.github.io/green-prompt/post/</loc>
+    <lastmod>2017-11-01T12:31:07+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugothemes.github.io/green-prompt/tags/</loc>
     <priority>0</priority>
   </url>
   
